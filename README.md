@@ -194,7 +194,7 @@ This project is HAS NO licensed under ANY ORGANISATION
 ## 📞 Support & Contact
 Need help? Feel free to reach out:
 📧 **Email**: ezekielaugustino@gmail.com
-💬 **Instagram**: [Enzo_leman10](https://www.instagram.com/enzo_leman10/)
+📸 **Instagram**: [Enzo_leman10](https://www.instagram.com/enzo_leman10/)
 🐛 **Report Issues**: [GitHub Issues](https://github.com/EnzoLeman/ems-project/issues)
 
 ---
