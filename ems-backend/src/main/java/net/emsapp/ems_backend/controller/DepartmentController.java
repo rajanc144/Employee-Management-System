@@ -21,7 +21,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 
 
-@CrossOrigin("*")
+@CrossOrigin("*") // Allow CORS for all origins (adjust as needed for production)
 @AllArgsConstructor
 @RestController
 @RequestMapping("/api/departments")
