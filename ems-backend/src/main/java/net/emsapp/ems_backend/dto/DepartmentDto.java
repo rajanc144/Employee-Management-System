@@ -10,6 +10,9 @@ import lombok.Setter;
 @NoArgsConstructor
 @AllArgsConstructor
 public class DepartmentDto {
+    /*
+         DTOs are used to transfer data between layers (e.g., from a database layer to a REST API), often to avoid exposing the full entity structure.
+    */
     private Long id;
     private String departmentName;
     private String departmentDescription;
