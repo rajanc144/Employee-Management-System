@@ -11,7 +11,7 @@ import lombok.Setter;
 @AllArgsConstructor
 public class EmployeeDto {
     /*
-         DTOs are used to transfer data between layers (e.g., from a database layer to a REST API), often to avoid exposing the full entity structure.
+        DTOs are used to transfer data between layers (e.g., from a database layer to a REST API), often to avoid exposing the full entity structure.
     */
     private Long id;
     private String firstName;
