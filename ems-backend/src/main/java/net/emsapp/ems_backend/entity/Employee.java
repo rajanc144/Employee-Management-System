@@ -35,7 +35,7 @@ public class Employee {
     @Column(name = "email_id", nullable = false, unique = true)
     private String email;
 
-    @ManyToOne(fetch = FetchType.LAZY)
-    @JoinColumn(name = "department_id")
+    @ManyToOne(fetch = FetchType.LAZY) // Lazy Loading: Reduces database load by fetching related data only when needed.
+    @JoinColumn(name = "department_id") // Join Column: Explicitly names the foreign key column, making the schema clear and maintainable.
     private Department department;
 }
