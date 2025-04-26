@@ -187,7 +187,7 @@ This project is HAS NO licensed under ANY ORGANISATION
 ---
 
 ## 🤝 Contributors
-🔹 [Enzo Leman](https://github.com/EnzoLeman) - Project Lead, Backend Developer, Frontend Developer
+🔹 [Enzo Leman](https://github.com/ezekielemana) - Project Lead, Backend Developer, Frontend Developer
 
 ---
 
@@ -195,7 +195,7 @@ This project is HAS NO licensed under ANY ORGANISATION
 Need help? Feel free to reach out:
 📧 **Email**: ezekielaugustino@gmail.com
 📸 **Instagram**: [Enzo_leman10](https://www.instagram.com/enzo_leman10/)
-🐛 **Report Issues**: [GitHub Issues](https://github.com/EnzoLeman/ems-project/issues)
+🐛 **Report Issues**: [GitHub Issues](https://github.com/ezekielemana/ems-project/issues)
 
 ---
 
