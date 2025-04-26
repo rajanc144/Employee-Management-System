@@ -93,7 +93,7 @@ The **Employee Management System** is designed for organizations looking to mana
 ### 🚀 Quick Start
 #### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/EnzoLeman/ems-project.git
+git clone https://github.com/ezekielemana/ems-project.git
 cd ems-project
 ```
 
@@ -187,7 +187,7 @@ This project is HAS NO licensed under ANY ORGANISATION
 ---
 
 ## 🤝 Contributors
-🔹 [Enzo Leman](https://github.com/ezekielemana) - Project Lead, Backend Developer, Frontend Developer
+🔹 [Ezekiel Lemana](https://github.com/ezekielemana) - Project Lead, Backend Developer, Frontend Developer
 
 ---
 
